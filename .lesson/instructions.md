@@ -1,4 +1,4 @@
-# Task 2: software design and development (part A)
+# H 2020 - Golf Club
 
 Teetastic Golf Club has a maximum of 50 members. It would like to develop a program to manage the information of existing and new members.
 

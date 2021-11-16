@@ -16,7 +16,7 @@ This file contains an example solution.
 
 The information in this publication may be reproduced in support of SQA qualifications only on a non-commercial basis. If it is reproduced, SQA must be clearly acknowledged as the source. If it is to be reproduced for any other purpose, written permission must be obtained from [permissions@sqa.org.uk](mailto:permissions@sqa.org.uk).
 
-&copy; Scottish Qualification Authority 2019
+&copy; Scottish Qualification Authority 2020
 
 ## Errors
 
