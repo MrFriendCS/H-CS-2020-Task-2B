@@ -39,7 +39,7 @@ ___2b___ Complete the table below to show data flow for the program. (__3 marks_
 
 The design for the Teetastic Golf Club member program is shown below.
 
-![Data flow](assets/dataflow.png)
+![Structure diagram](assets/dataflow.png)
 
 ### Program top level design (pseudocode)
 
