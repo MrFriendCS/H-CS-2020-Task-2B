@@ -1,4 +1,4 @@
-# Lesson Plan: H 2020 - Golf Club
+# Lesson Plan: H 2020 Task 2B
 
 ## members.txt
 

@@ -1,4 +1,4 @@
-# H 2020 - Golf Club
+# H 2020 Task 2B
 
 Teetastic Golf Club has a maximum of 50 members. It would like to develop a program to manage the information of existing and new members.
 
