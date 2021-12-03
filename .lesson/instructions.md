@@ -55,6 +55,7 @@ each category and the total number of members.
 __IN__: category()
 
 ### Refinements
+
 1.1 Get first name  
 1.2 Get surname  
 1.3 Get category  
