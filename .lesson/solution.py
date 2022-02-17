@@ -1,4 +1,4 @@
-# Title: 2020 H CS Assignment
+# Title: 2020 H CS Task 2B
 # Author: Mr Friend
 # Date: 21 Jan 2020
 
@@ -130,7 +130,7 @@ def getCategory(newFirstName, newSurname, newCategory, newPassword):
 def displayInfo(categories):
 
     '''
-    Find and display the number of members in each category and the total number ofmembers.
+    Find and display the number of members in each category and the total number of members.
     '''
 
     # Declare local variables

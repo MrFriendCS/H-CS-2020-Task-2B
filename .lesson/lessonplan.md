@@ -1,4 +1,4 @@
-# Lesson Plan: H 2020 Task 2B
+# Lesson Plan: H CS 2020 Task 2B
 
 ## members.txt
 
